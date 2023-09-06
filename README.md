@@ -1,8 +1,9 @@
 ![MasterHead](https://raw.githubusercontent.com/BEPb/BEPb/0bf5b88e75f7bd683d9ffe87e4c7bd9075b9fe7e/assets/Bottom_up.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=900&height=100&lines=Hello+;I+am+Arjun+G+Ravi;I+love+learning+AI+and+ML;I+am+obsessed+with+AI+alignment)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=900&height=100&lines=Hello🙂+;I+am+Arjun+G+Ravi;I+love+learning+AI+and+ML;I+am+obsessed+with+AI+alignment)](https://git.io/typing-svg)
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun-g-ravi&show_icons=true&locale=en&theme=radical" alt="arjun-g-ravi" /></p>
+<h3></h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun-g-ravi&show_icons=true&theme=radical&locale=en&include_all_commits=true" alt="arjun-g-ravi" /></p>
 
@@ -20,5 +21,4 @@
 <a href="https://kaggle.com/arjungravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arjungravi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arjun_g_ravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjun_g_ravi" height="30" width="40" /></a>
 </p>
-
 
