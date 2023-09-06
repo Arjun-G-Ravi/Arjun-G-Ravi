@@ -3,14 +3,29 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=900&height=100&lines=Hello🙂+;I+am+Arjun+G+Ravi;I+love+learning+AI+and+ML;I+am+obsessed+with+AI+alignment)](https://git.io/typing-svg)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-g-ravi&theme=radical" alt="arjun-g-ravi" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=arjun-g-ravi&show_icons=true&theme=radical&border=61dafb&locale=en&include_all_commits=true" alt="arjun-g-ravi" /></p>
-
-<br><br><br><br><br><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun-g-ravi&show_icons=true&locale=en&theme=radical" alt="arjun-g-ravi" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-g-ravi&theme=react" alt="arjun-g-ravi" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=arjun-g-ravi&show_icons=true&theme=react&locale=en&include_all_commits=true" alt="arjun-g-ravi" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun-g-ravi&show_icons=true&locale=en&theme=react" alt="arjun-g-ravi" />
+    </a>
+  </div>
+  <br>
+</p>
+<hr>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,4 +38,6 @@
 <a href="https://kaggle.com/arjungravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arjungravi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arjun_g_ravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjun_g_ravi" height="30" width="40" /></a>
 </p>
+
+
 
