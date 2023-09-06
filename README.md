@@ -1,6 +1,8 @@
-<h1 align="center">I'm Arjun G Ravi</h1>
-<h3 align="center">Obsessed about AI alignment</h3>
+[![MasterHead](https://raw.githubusercontent.com/BEPb/BEPb/0bf5b88e75f7bd683d9ffe87e4c7bd9075b9fe7e/assets/Bottom_up.svg)](https://rishavchanda.io)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hello+There+.+.+.+;I+am+Arjun+G+Ravi;I+love+learning+AI+and+ML;I+am+obsessed+with+AI+alignment)](https://git.io/typing-svg)
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arjun-g-ravi-a63864227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-g-ravi-a63864227" height="30" width="40" /></a>
