@@ -11,7 +11,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun-g-ravi&show_icons=true&locale=en&theme=radical" alt="arjun-g-ravi" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun-g-ravi&show_icons=true&locale=en&theme=radical" alt="arjun-g-ravi" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
