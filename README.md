@@ -1,8 +1,8 @@
 ![MasterHead](https://raw.githubusercontent.com/Arjun-G-Ravi/Arjun-G-Ravi/main/new_image.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=100000&center=false&vCenter=true&width=900&height=100&lines=I'm+in+love+with)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=100000&center=false&vCenter=true&width=900&height=50&lines=I'm+in+love+with+.+.+.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=2000&center=true&vCenter=true&width=900&height=100&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Reinforcement+Learning;AI+Alignment;Coding;Running)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=2000&center=true&vCenter=true&width=900&height=50&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Reinforcement+Learning;AI+Alignment;Coding;Robotics;Running)](https://git.io/typing-svg)
 
 <br>
 <p align=center>
