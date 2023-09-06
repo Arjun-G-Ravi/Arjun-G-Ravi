@@ -5,7 +5,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-g-ravi&theme=radical" alt="arjun-g-ravi" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=arjun-g-ravi&show_icons=true&theme=radical&locale=en&include_all_commits=true" alt="arjun-g-ravi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=arjun-g-ravi&show_icons=true&theme=radical&border=61dafb&locale=en&include_all_commits=true" alt="arjun-g-ravi" /></p>
 
 <br><br><br><br><br><br><br>
 
