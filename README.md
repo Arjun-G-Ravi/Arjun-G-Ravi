@@ -1,5 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/BEPb/BEPb/0bf5b88e75f7bd683d9ffe87e4c7bd9075b9fe7e/assets/Bottom_up.svg)](https://rishavchanda.io)
-
+[![MasterHead](https://raw.githubusercontent.com/BEPb/BEPb/0bf5b88e75f7bd683d9ffe87e4c7bd9075b9fe7e/assets/Bottom_up.svg)]
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=900&height=100&lines=Hello+;I+am+Arjun+G+Ravi;I+love+learning+AI+and+ML;I+am+obsessed+with+AI+alignment)](https://git.io/typing-svg)
 
 <h3 align="left">Profiles:</h3>
