@@ -1,14 +1,17 @@
 ![MasterHead](https://raw.githubusercontent.com/BEPb/BEPb/0bf5b88e75f7bd683d9ffe87e4c7bd9075b9fe7e/assets/Bottom_up.svg)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=900&height=100&lines=Hello🙂+;I+am+Arjun+G+Ravi;I+love+learning+AI+and+ML;I+am+obsessed+with+AI+alignment)](https://git.io/typing-svg)
 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-g-ravi&theme=radical" alt="arjun-g-ravi" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=arjun-g-ravi&show_icons=true&theme=radical&locale=en&include_all_commits=true" alt="arjun-g-ravi" /></p>
+
+<br><br><br><br><br><br><br>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun-g-ravi&show_icons=true&locale=en&theme=radical" alt="arjun-g-ravi" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun-g-ravi&show_icons=true&locale=en&theme=radical" alt="arjun-g-ravi" /></p>
-<h3></h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun-g-ravi&show_icons=true&theme=radical&locale=en&include_all_commits=true" alt="arjun-g-ravi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-g-ravi&theme=radical" alt="arjun-g-ravi" /></p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
