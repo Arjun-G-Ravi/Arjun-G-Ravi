@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=100000&center=false&vCenter=true&width=900&height=50&lines=I'm+in+love+with+.+.+.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=900&height=50&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Reinforcement+Learning;AI+Alignment;Coding;Robotics;Running;Cows;Large+Language+Models)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=900&height=50&lines=Machine+Learning;Deep+Learning;AI+Alignment;Leetcoding;Robotics;Distance+Running;Cows;Large+Language+Models;Artificial+Intelligence)](https://git.io/typing-svg)
 
 <br>
 <p align=center>
