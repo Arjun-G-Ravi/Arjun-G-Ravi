@@ -38,7 +38,7 @@ class Me:
 
     def current_stage(self):
         current_me = ['Learning AI concepts in the deepest way possible - focused on NLP','Finetuning LLMs','Leetcoding']
-        future_me = ['Kaggling', 'Computer vision']
+        future_me = ['Kaggling', 'Computer vision','Researching in alignment']
         return current_me
     
 me = Me()
