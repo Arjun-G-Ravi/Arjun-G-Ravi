@@ -47,6 +47,16 @@ me.current_stage()
 ```
 <br>
 
+
+<h2 align="left">My Major Repositories:</h2>
+<br>
+
+| Sl No. | Repository Name                                 | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|--------|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|1       | Learning AI   <a href="https://github.com/Arjun-G-Ravi/Learning-AI" target="_blank" rel="noreferrer"> <img src="https://desktop.github.com/images/desktop-icon.svg" alt="Go to repo" width="30" height="30"/> </a> | This repo contains the notes I made during my AI journey. The notes tend to be systematic and easy to understand.|
+
+
+<br>
 <h3 align="left">My Tools:</h3>
 <p align="left"> 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter_notebook" width="40" height="40"/> </a> 
