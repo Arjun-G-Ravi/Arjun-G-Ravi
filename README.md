@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=900&height=50&lines=Machine+Learning;Deep+Learning;AI+Alignment;Leetcoding;Robotics;Distance+Running;Cows;Large+Language+Models;Artificial+Intelligence)](https://git.io/typing-svg)
 
-<br>
 <p align=center>
   <div align=center>
     <a  title="Go to Source">
@@ -24,8 +23,31 @@
 </p>
 <hr>
 
-<h3 align="left">My Tools:</h3>
 
+<h3 align="left">About Me:</h3>
+
+```python
+
+class Me:
+
+    def __init__(self):
+        self.name = "Arjun G Ravi"
+        self.what_do_i_do = "Machine Learning Undergrad"
+        self.what_do_i_want_to_do = "AI alignment research"
+        print(self.name)
+
+    def current_stage(self):
+        current_me = ['Learning AI concepts in the deepest way possible - focused on NLP','Finetuning LLMs','Leetcoding']
+        future_me = ['Kaggling', 'Computer vision']
+        return current_me
+    
+me = Me()
+me.current_stage()
+
+```
+<br>
+
+<h3 align="left">My Tools:</h3>
 <p align="left"> 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter_notebook" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
