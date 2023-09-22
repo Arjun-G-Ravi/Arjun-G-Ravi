@@ -89,12 +89,13 @@ me.current_stage()
 
 
 <!-- Cows -->
+<!-- 
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="20%">
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="20%">
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="20%">
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="20%">
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="20%">
-
+-->
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
@@ -105,7 +106,7 @@ me.current_stage()
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
-
+<!-- 
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
@@ -126,7 +127,6 @@ me.current_stage()
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
-
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
@@ -177,7 +177,6 @@ me.current_stage()
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
@@ -278,6 +277,4 @@ me.current_stage()
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
 <img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-
-
-
+-->
