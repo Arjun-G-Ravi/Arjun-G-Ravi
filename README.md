@@ -46,19 +46,28 @@ me.current_stage()
 
 ```
 <br>
-
-
-<h2 align="left">My Major Repositories:</h2>
+<h2 align="left">Interesting Repositories:</h2>
 <br>
 
 | Sl No. | Repository Name                                 | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |--------|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |1       | <a href="https://github.com/Arjun-G-Ravi/Learning-AI">Learning-AI </a> | This repo contains the notes I made during my AI journey. The notes tend to be systematic and easy to understand.|
-|2       | <a href="https://github.com/Arjun-G-Ravi/AI_Assistant">AI_Assistant</a>| This is a rule-based AI assistant that I made in 2019-20. It is vastly outperformed by today's LLMs, and hence is not worth upgrading. But it can be used as a 'first big project' for a python beginner programmer.|
+|2       | <a href="https://github.com/Arjun-G-Ravi/AI_Assistant">AI_Assistant</a>| This is a rule-based AI assistant that I made in 2019-20. It is vastly outperformed by today's LLMs, and hence is not worth upgrading. But it can be used as a 'first big project' for a Python beginner programmer.|
 
+<br><p>
+<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
+<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
+<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
+<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
+<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
+<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
+<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
+<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
+<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
+<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
+</p>
+<br><br><br>
 
-
-<br>
 <h3 align="left">My Tools:</h3>
 <p align="left"> 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter_notebook" width="40" height="40"/> </a> 
@@ -85,196 +94,3 @@ me.current_stage()
 <a href="https://www.leetcode.com/arjun_g_ravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjun_g_ravi" height="30" width="40" /></a>
 <a href="https://huggingface.co/Arjun-G-Ravi" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="arjungravi" height="40" width="40" /></a>
 </p>
-
-
-
-<!-- Cows -->
-<!-- 
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="20%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="20%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="20%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="20%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="20%">
--->
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
-<!-- 
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="5%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="2%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="1%">
--->
