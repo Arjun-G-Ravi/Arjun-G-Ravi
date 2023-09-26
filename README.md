@@ -54,7 +54,7 @@ me.current_stage()
 |1       | <a href="https://github.com/Arjun-G-Ravi/ml_algos">ml_algos</a>| This is a ML library, similar to sklearn, but with fewer algorithms. Instead, it has some useful features which can be super helpful for practical application.|
 |2       | <a href="https://github.com/Arjun-G-Ravi/AI-Notes">AI Notes </a> | This repo contains the notes I made during my AI journey. The notes tend to be systematic and easy to understand.|
 |3       | <a href="https://github.com/Arjun-G-Ravi/Non-AI-Notes">Non AI Notes </a> | This repo contains the notes on non AI things. But these things might have some relation to AI.|
-|4       | <a href="https://github.com/Arjun-G-Ravi/AI_Assistant">AI_Assistant</a>| This is a rule-based AI assistant that I made back in 2019-20. It is vastly outperformed by today's LLMs and hence is not worth upgrading. But it can be used as a 'first big project' for a Python beginner programmer.|
+|4       | <a href="https://github.com/Arjun-G-Ravi/AI_Assistant">AI_Assistant</a>| This is a rule-based AI assistant that I made back in 2019-20. It is vastly outperformed by today's LLMs and hence is **not worth upgrading**. But it can be used as a 'first big project' for a Python beginner programmer.|
 
 <!-- |2       | <a href="https://github.com/Arjun-G-Ravi/Repo-Summariser">Repo_Summariser</a>| This project aims to use the power of AI to assist programmers in reading and understanding GitHub repos. | -->
 <br><p>
