@@ -7,16 +7,16 @@
 <p align=center>
   <div align=center>
     <a  title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-g-ravi&theme=react" alt="arjun-g-ravi" />
+<!--       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-g-ravi&theme=react" alt="arjun-g-ravi" /> -->
     </a>
     <a  title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats-sigma-five.vercel.app/api?username=arjun-g-ravi&show_icons=true&theme=react&locale=en&include_all_commits=true" alt="arjun-g-ravi" />
+      <img align="centre" width=500 src="https://github-readme-stats-sigma-five.vercel.app/api?username=arjun-g-ravi&show_icons=true&theme=react&locale=en&include_all_commits=true" alt="arjun-g-ravi" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+<!--   <br><br><br><br><br><br><br><br><br> -->
   <div align=center>
     <a>
-      <img width=325 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=arjun-g-ravi&show_icons=true&locale=en&theme=react" alt="arjun-g-ravi" />
+<!--       <img width=325 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=arjun-g-ravi&show_icons=true&locale=en&theme=react" alt="arjun-g-ravi" /> -->
     </a>
   </div>
   <br>
