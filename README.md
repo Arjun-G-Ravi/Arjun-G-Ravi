@@ -1,50 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/Arjun-G-Ravi/Arjun-G-Ravi/main/new_image.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=100000&center=false&vCenter=true&width=900&height=50&lines=I'm+in+love+with+.+.+.)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=900&height=50&lines=AI+Alignment;Deep+Learning;Robotics;Distance+Running;Coding;Large+Language+Models;Cows;Machine+Learning)](https://git.io/typing-svg)
-
-<p align=center>
-  <div align=center>
-    <a  title="Go to Source">
-<!--       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-g-ravi&theme=react" alt="arjun-g-ravi" /> -->
-    </a>
-    <a  title="Go to Source">
-      <img align="centre" width=500 src="https://github-readme-stats-sigma-five.vercel.app/api?username=arjun-g-ravi&show_icons=true&theme=react&locale=en&include_all_commits=true" alt="arjun-g-ravi" />
-    </a>
-  </div>
-<!--   <br><br><br><br><br><br><br><br><br> -->
-  <div align=center>
-    <a>
-<!--       <img width=325 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=arjun-g-ravi&show_icons=true&locale=en&theme=react" alt="arjun-g-ravi" /> -->
-    </a>
-  </div>
-  <br>
-</p>
-<hr>
-
-
-<h3 align="left">About Me:</h3>
-
-```python
-
-class Me:
-
-    def __init__(self):
-        self.name = "Arjun G Ravi"
-        self.what_do_i_do = "Machine Learning Undergrad"
-        self.what_do_i_want_to_do = "AI alignment research"
-        print(self.name)
-
-    def current_stage(self):
-        current_me = ['Learning AI concepts in the deepest way possible - focused on NLP','Finetuning LLMs','Leetcoding']
-        future_me = ['Kaggling', 'Computer vision','Researching alignment']
-        return current_me
-    
-me = Me()
-me.current_stage()
-
-```
 <br>
 <h2 align="left">Projects:</h2>
 
