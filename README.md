@@ -58,7 +58,7 @@
 
 <h3 align="right">My Profiles:</h3>
 <p align="right">
-<a href="https://linkedin.com/in/arjun-g-ravi-a63864227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-g-ravi-a63864227" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/arjun-g-ravi-a63864227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-g-ravi-a63864227" height="30" width="40" /></a> -->
 <a href="https://kaggle.com/arjungravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arjungravi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arjun_g_ravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjun_g_ravi" height="30" width="40" /></a>
 <a href="https://huggingface.co/Arjun-G-Ravi" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="arjungravi" height="40" width="40" /></a>
