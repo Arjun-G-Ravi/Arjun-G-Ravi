@@ -8,9 +8,8 @@
 |1       | <a href="https://github.com/Arjun-G-Ravi/AI-Chess">AI-Chess</a>| This is a project where I try to create a chess engine. It is currently under development.|
 |2       | <a href="https://github.com/Arjun-G-Ravi/chat-GPT-2">Chat GPT-2</a>| This is a version of OpenAI's GPT-2, finetuned for chatting. This is a highly capable model for 124M parameters (which is very small by today's standards).|
 |3       | <a href="https://github.com/Arjun-G-Ravi/ml_algos">ml_algos</a>| This is a ML library, similar to sklearn, but with fewer algorithms. This is more like a learning project than a practical, super advanced full-fledged library. Why use sklearn, when you can use something worse? This is under development.|
-|4       | <a href="https://github.com/Arjun-G-Ravi/Noob-projects">Noob Projects</a>| Lots of noob level projects for noobs.|
+|4       | <a href="https://github.com/Arjun-G-Ravi/Cow-invaders">Cow Invaders</a>| This is a game developed in pygame. It is the game of a cow, who stops monsters from getting to the barn. The game is complete, but I plan on automating it with AI to find various game strategies.|
 |5       | <a href="https://github.com/Arjun-G-Ravi/AI_Assistant">AI Assistant</a>| This is a rule-based AI assistant that I made back in 2019-20. It is vastly outperformed by today's LLMs and hence is **not worth upgrading**. But it can be used as a 'first big project' for a Python beginner programmer. **Update**: A better one is available in <a href="https://github.com/Arjun-G-Ravi/Desktop-Assistant">Desktop-Assistant</a>|
-|6       | <a href="https://github.com/Arjun-G-Ravi/Cow-invaders">Cow Invaders</a>| This is a game developed in pygame. It is the game of a cow, who stops monsters from getting to the barn. The game is complete, but I plan on automating it with AI to find various game strategies.|
 
 <br>
 <h2 align="left">Repositories for Learning:</h2>
@@ -19,7 +18,9 @@
 |--------|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |1       | <a href="https://github.com/Arjun-G-Ravi/AI-Notes">AI Notes </a> | This repo contains the notes I made during my AI journey. The notes tend to be systematic and easy to understand.|
 |2       | <a href="https://github.com/Arjun-G-Ravi/Non-AI-Notes">Non AI Notes </a> | This repo contains the notes on: <a href="https://github.com/Arjun-G-Ravi/Non-AI-Notes/tree/main/03_Data%20Structure%20and%20Algorithms">DSA</a> - <a href="https://github.com/Arjun-G-Ravi/Non-AI-Notes/tree/main/05_Linux">Linux</a> - <a href="https://github.com/Arjun-G-Ravi/Non-AI-Notes/tree/main/04_Python">Python</a> - <a href="https://github.com/Arjun-G-Ravi/Non-AI-Notes/tree/main/06_Git">Git</a> - <a href="https://github.com/Arjun-G-Ravi/Non-AI-Notes/tree/main/09_c">c</a> and other CS topics.|
-
+|3       | <a href="https://github.com/Arjun-G-Ravi/recreating_projects">Recreating projects</a>| I try to recreate popular projects made by others.|
+|4       | <a href="https://github.com/Arjun-G-Ravi/replicating_research_papers">Replicating research papers</a>| I try to replicate famous AI-ML research papers and implement them in code.|
+| 5      | <a href="https://github.com/Arjun-G-Ravi/Noob-projects">Noob Projects</a>| Contains lots of beginner-friendly and simple projects, which are not worthy of a full repository.|
 
 
 
@@ -38,7 +39,7 @@
 </p>
 <br><br><br>
 
-<h3 align="left">My Tools:</h3>
+<h3 align="left">Tools I am very familiar with:</h3>
 <p align="left"> 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter_notebook" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
