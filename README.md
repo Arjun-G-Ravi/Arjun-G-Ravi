@@ -25,21 +25,8 @@
 
 
 <!-- |2       | <a href="https://github.com/Arjun-G-Ravi/Repo-Summariser">Repo_Summariser</a>| This project aims to use the power of AI to assist programmers in reading and understanding GitHub repos. | -->
-<br><p>
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
-<img align="left" src="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/Za9e.gif" alt="Metrics" width="10%">
-</p>
-<br><br><br>
 
-<h3 align="left">Tools I am very familiar with:</h3>
+<h3 align="left">Tools I am super familiar with:</h3>
 <p align="left"> 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter_notebook" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
