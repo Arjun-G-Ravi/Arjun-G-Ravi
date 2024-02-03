@@ -20,7 +20,7 @@
 |2       | <a href="https://github.com/Arjun-G-Ravi/Non-AI-Notes">Non AI Notes </a> | This repo contains the notes on: <a href="https://github.com/Arjun-G-Ravi/Non-AI-Notes/tree/main/03_Data%20Structure%20and%20Algorithms">DSA</a> - <a href="https://github.com/Arjun-G-Ravi/Non-AI-Notes/tree/main/05_Linux">Linux</a> - <a href="https://github.com/Arjun-G-Ravi/Non-AI-Notes/tree/main/04_Python">Python</a> - <a href="https://github.com/Arjun-G-Ravi/Non-AI-Notes/tree/main/06_Git">Git</a> - <a href="https://github.com/Arjun-G-Ravi/Non-AI-Notes/tree/main/09_c">c</a> and other CS topics.|
 |3       | <a href="https://github.com/Arjun-G-Ravi/recreating_projects">Recreating projects</a>| I try to recreate popular projects made by others.|
 |4       | <a href="https://github.com/Arjun-G-Ravi/replicating_research_papers">Replicating research papers</a>| I try to replicate famous AI-ML research papers and implement them in code.|
-| 5      | <a href="https://github.com/Arjun-G-Ravi/Noob-projects">Noob Projects</a>| Contains lots of beginner-friendly and simple projects, which are not worthy of a full repository.|
+| 5      | <a href="https://github.com/Arjun-G-Ravi/Noob-projects">Noob Projects</a>| Contains lots of simple projects, which are not worthy of separate repositories.|
 
 
 
