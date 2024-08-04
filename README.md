@@ -22,6 +22,19 @@
 |4       | <a href="https://github.com/Arjun-G-Ravi/replicating_research_papers">Replicating research papers</a>| I try to replicate famous AI-ML research papers and implement them in code.|
 | 5      | <a href="https://github.com/Arjun-G-Ravi/Noob-projects">Noob Projects</a>| Contains lots of simple projects, which are not worthy of separate repositories.|
 
+  <br><br>
+
+<p align=center>
+  <div align=center>
+    <a  title="Go to Source">
+      <img align="left" width=470 src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-g-ravi&theme=react" alt="arjun-g-ravi" />
+    </a>
+    <a  title="Go to Source">
+      <img align="right" width=470 src="https://github-readme-stats-sigma-five.vercel.app/api?username=arjun-g-ravi&show_icons=true&theme=react&locale=en&include_all_commits=true" alt="arjun-g-ravi" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+
 
 
 <!-- |2       | <a href="https://github.com/Arjun-G-Ravi/Repo-Summariser">Repo_Summariser</a>| This project aims to use the power of AI to assist programmers in reading and understanding GitHub repos. | -->
