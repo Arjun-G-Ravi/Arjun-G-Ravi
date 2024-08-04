@@ -22,7 +22,7 @@
 |4       | <a href="https://github.com/Arjun-G-Ravi/replicating_research_papers">Replicating research papers</a>| I try to replicate famous AI-ML research papers and implement them in code.|
 | 5      | <a href="https://github.com/Arjun-G-Ravi/Noob-projects">Noob Projects</a>| Contains lots of simple projects, which are not worthy of separate repositories.|
 
-  <br><br>
+  <br>
 
 <p align=center>
   <div align=center>
