@@ -7,8 +7,13 @@
 |1       | <a href="https://github.com/Arjun-G-Ravi/AI-Chess">AI-Chess</a>| This is a project where I try to create a chess engine. It is currently under development.|
 |2       | <a href="https://github.com/Arjun-G-Ravi/chat-GPT-2">Chat GPT-2</a>| This is a version of OpenAI's GPT-2, finetuned for chatting. This is a highly capable model for 124M parameters (which is very small by today's standards).|
 |3       | <a href="https://github.com/Arjun-G-Ravi/skmini">Sklearn-mini</a>| Skmini is an attempt to recreate sklearn in under 1000 lines of code.|
-|4       | <a href="https://github.com/Arjun-G-Ravi/Cow-invaders">Cow Invaders</a>| This is a game developed in pygame. It is the game of a cow, who stops monsters from getting to the barn. The game is complete, but I plan on automating it with AI to find various game strategies.|
-|5       | <a href="https://github.com/Arjun-G-Ravi/AI_Assistant">AI Assistant</a>| This is a rule-based AI assistant that I made back in 2019-20. It is vastly outperformed by today's LLMs and hence is **not worth upgrading**. But it can be used as a 'first big project' for a Python beginner programmer. **Update**: A better one is available in <a href="https://github.com/Arjun-G-Ravi/Desktop-Assistant">Desktop-Assistant</a>|
-|5       | <a href="https://github.com/Arjun-G-Ravi/AI_Assistant">See more</a>| See all of my good repos.|
+|4       | <a href="https://github.com/Arjun-G-Ravi/LMBenchmarkingTool/">LMBenchmarkingTool</a>|This is a library which can be used to benchmark large language models on popular benchmarks like MMLU, HellaSwag, MATH, etc. LMBenchmarkingTool makes benchmarking LLMs very easy.|
+|5       | <a href="https://github.com/Arjun-G-Ravi/ai-village">AI Assistant</a>| This project aims to create a simulated village, where the villagers are AI agents. Groq Llama controls the agents and the simulation is made in pygame. </a>|
+|6       | <a href="https://github.com/Arjun-G-Ravi/Cow-invaders">Cow Invaders</a>| This is a game developed in pygame. It is the game of a cow, who stops monsters from getting to the barn. The game is complete, but I plan on automating it with AI to find various game strategies.|
+|7       | <a href="https://github.com/Arjun-G-Ravi/AI_Assistant">AI Assistant</a>| This is a rule-based AI assistant that I made back in 2019-20. Today's LLMs vastly outperform it and hence this project is **not worth upgrading**. But it can be used as a 'first big project' for a Python beginner programmer. **Update**: A better one is available in <a href="https://github.com/Arjun-G-Ravi/Desktop-Assistant">Desktop-Assistant</a>|
+|8       | <a href="https://github.com/Arjun-G-Ravi/simple-programming-language">A simple programming language</a>| This is a simple interpreted programming language made for fun using C. This will not be developed much further into a full-fledged programming language. It is more of a fun little experiment.  |
+|9       | <a href="https://github.com/Arjun-G-Ravi/Text_Editor">Text Editor</a>| Trying to make a text editor using tkinter. It is unusable today.|
+|10       | <a href="https://github.com/Arjun-G-Ravi/Autonomous-Form-Filler">Autonomous form filler</a>| A quick form filler I made for an event. Not developed since, but can work well as a foundation.|
+
 
 </br>
