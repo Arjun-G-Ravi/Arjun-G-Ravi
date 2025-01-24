@@ -14,6 +14,8 @@
 |8       | <a href="https://github.com/Arjun-G-Ravi/simple-programming-language">A simple programming language</a>| This is a simple interpreted programming language made for fun using C. This will not be developed much further into a full-fledged programming language. It is more of a fun little experiment.  |
 |9       | <a href="https://github.com/Arjun-G-Ravi/Text_Editor">Text Editor</a>| Trying to make a text editor using tkinter. It is unusable today.|
 |10       | <a href="https://github.com/Arjun-G-Ravi/Autonomous-Form-Filler">Autonomous form filler</a>| A quick form filler I made for an event. Not developed since, but can work well as a foundation.|
+|11       | <a href="https://github.com/Arjun-G-Ravi/recreating_projects">Recreating projects</a>| I try to recreate popular projects made by others.|
+|12      | <a href="https://github.com/Arjun-G-Ravi/Noob-projects">Noob Projects</a>| Contains lots of simple projects, which are not worthy of separate repositories.|
 
 
 </br>
