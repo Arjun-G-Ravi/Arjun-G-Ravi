@@ -10,7 +10,7 @@
 |3       | <a href="https://github.com/Arjun-G-Ravi/skmini">Sklearn-mini</a>| Skmini is an attempt to recreate sklearn in under 1000 lines of code.|
 |4       | <a href="https://github.com/Arjun-G-Ravi/LMBenchmarkingTool/">LMBenchmarkingTool</a>|This is a library which can be used to benchmark large language models on popular benchmarks like MMLU, HellaSwag, MATH, etc. LMBenchmarkingTool makes benchmarking LLMs very easy.|
 |5       | <a href="https://github.com/Arjun-G-Ravi/ai-village">AI Village</a>| This project aims to create a simulated village, where the villagers are AI agents. Groq Llama controls the agents and the simulation is made in pygame. </a>|
-|6       | <a href="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/best_repos.md">See more</a>| See my better repos.|
+|6       | <a href="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/best_repos.md">See more</a>| See more repos.|
 
 <br>
 <h2 align="left">Repositories for Notes:</h2>
