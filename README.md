@@ -28,7 +28,7 @@
       <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-g-ravi&theme=react" alt="arjun-g-ravi" />
     </a>
     <a  title="Go to Source">
-      <img align="right" width=400 src="https://github-readme-stats-sigma-five.vercel.app/api?username=arjun-g-ravi&show_icons=true&theme=react&locale=en&include_all_commits=true" alt="arjun-g-ravi" />
+      <img align="right" width=400 src="https://github-readme-stats-sigma-five.vercel.app/api?username=arjun-g-ravi&show_icons=true&theme=react&locale=en&include_all_commits=true&count_private=true" alt="arjun-g-ravi" />
     </a>
   </div>
   <br><br><br><br><br><br><br>
