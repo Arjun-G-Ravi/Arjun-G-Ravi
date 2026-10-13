@@ -1,6 +1,3 @@
-![MasterHead](https://raw.githubusercontent.com/Arjun-G-Ravi/Arjun-G-Ravi/main/new_image.png)
-
-<br>
 <h2 align="left">Projects:</h2>
 
 | Sl No. | Repository Name                                 | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
@@ -19,10 +16,7 @@
 <p align=center>
   <div align=center>
     <a  title="Go to Source">
-      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-g-ravi&theme=react" alt="arjun-g-ravi" />
-    </a>
-    <a  title="Go to Source">
-      <img align="right" width=400 src="https://github-readme-stats-sigma-five.vercel.app/api?username=arjun-g-ravi&show_icons=true&theme=react&locale=en&include_all_commits=true&count_private=true" alt="arjun-g-ravi" />
+      <img align="center" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-g-ravi&theme=react" alt="arjun-g-ravi" />
     </a>
   </div>
   <br><br><br><br><br><br><br>
