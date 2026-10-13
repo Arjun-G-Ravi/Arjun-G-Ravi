@@ -9,17 +9,15 @@
 |5       | <a href="https://github.com/Arjun-G-Ravi/ai-village">AI Village</a>| This project aims to create a simulated village, where the villagers are AI agents. Groq Llama controls the agents and the simulation is made in pygame. </a>|
 |6       | <a href="https://github.com/Arjun-G-Ravi/Arjun-G-Ravi/blob/main/best_repos.md">See more</a>| See more repos.|
 
-<br>
 
-<br>
 
 <p align=center>
   <div align=center>
     <a  title="Go to Source">
-      <img align="center" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-g-ravi&theme=react" alt="arjun-g-ravi" />
+      <img align="center" width=600 src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-g-ravi&theme=react" alt="arjun-g-ravi" />
     </a>
   </div>
-  <br><br><br><br><br><br><br>
+  <br>
 
 
 <h3 align="right">My Profiles:</h3>
